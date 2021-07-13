@@ -1,0 +1,29 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "f0a764e0-ba41-4dad-976d-443a40de7225",
+        "ProjectName": "Project1",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "BuildMethod": 1,
+          "NumberOfRevisionsInViewHistory": 50,
+          "NumberOfTagsInBuildOptions": 50,
+          "BuildDeploymentScriptOnPush": false
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "C:\\SC\\1"
+      },
+      "UserData": [
+        {
+          "UserName": "Condensator",
+          "DatabasesData": []
+        }
+      ]
+    }
+  ],
+  "GlobalConfigurations": null
+}
